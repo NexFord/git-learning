@@ -1,0 +1,30 @@
+Hello VIM !
+really hard to use...
+test movekey.
+h -- 向前移动
+l -- 向后移动
+j -- 向下移动
+k -- 向上移动
+Study Mode, It's so mult...
+i -- 在光标前插入
+I -- 在所在行前插入
+a -- 在光标后插入
+A -- 在所在行后插入
+o -- 在光标下方插入空行并插入
+O -- 在光标上方插入空行并插入
+s -- 删除光标指定字符并插入
+S -- 删除光标所在行并插
+删除命令学习
+so much
+0 or ^ --行首
+& -- 行尾
+b -- 单词所在的起始处
+e -- 单词所在的末尾处
+w -- 光标所在的单词下一个单词的起始处
+gg -- 文件的起始处
+G -- 文件的末尾处
+lession one
+lession two
+lession three
+lession four
+git
